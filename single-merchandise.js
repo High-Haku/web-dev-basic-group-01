@@ -86,4 +86,3 @@ if(verifyLogin===true) {
   loginButton.classList.add("d-none")
   cartButton.classList.remove("d-none")
 };
-
